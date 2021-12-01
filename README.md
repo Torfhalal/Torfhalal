@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on my Portfolio
-🌱 I’m currently learning SCSS & Vue
+- 🔭 I’m currently working on my Portfolio
+- 🌱 I’m currently learning SCSS & Vue
 
 <!--
 **Torfhalal/Torfhalal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
