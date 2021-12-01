@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my Portfolio
+- ⚡ I'm currently participating in the challenge Advent Of Code !
+- 🔭 I’m currently working on my Portfolio (HTML, SCSS & JS)
 - 🌱 I’m currently learning SCSS & Vue
 
 <!--
