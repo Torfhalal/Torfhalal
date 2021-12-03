@@ -1,4 +1,4 @@
-### Hi there, I'm Alexandre Tison aka Torfhalal 👋
+### Hi there, I'm Alexandre Tison aka alextison 👋
 
 [![Website](https://img.shields.io/badge/alextison.com-maintenance-red)](https://alextison.com)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alexandre-tison-29b859197/)
