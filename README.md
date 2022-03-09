@@ -1,13 +1,13 @@
 ### Hi there, I'm Alexandre Tison aka alextison 👋
 
-[![Website](https://img.shields.io/badge/alextison.com-maintenance-red)](https://alextison.com)
+[![Website](https://img.shields.io/badge/alextison.com-available-green)](https://alextison.com)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alexandre-tison-29b859197/)
 
 ## I'm a Front-end Web Developer
-- ⚡ I'm currently developing my Symfony & Android Applications !
-- 🔭 I’m currently working on my [Portfolio](https://github.com/Torfhalal/TorfaPortfolio) (HTML, SCSS & JS)
-- 🌱 I’m currently learning SCSS & Vue
-- 😄 Fun fact: The only thing I speedrun is my life
+- ⚡ I just released my [Portfolio](https://github.com/Torfhalal/TorfaPortfolio) !
+- 🔭 I’m currently working on Symfony & Android applications
+- 🌱 I’m currently learning Vue
+- 😄 Fun fact: I know the composition of a CapriSun
 
 <br/>
 
