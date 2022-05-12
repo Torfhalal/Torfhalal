@@ -5,8 +5,8 @@
 
 ## I'm a Front-end Web Developer
 - ⚡ I just released my [Portfolio](https://github.com/Torfhalal/TorfaPortfolio) !
-- 🔭 I’m currently working on Symfony & Android applications
-- 🌱 I’m currently learning Vue
+- 🔭 I’m currently working on a Chrome Extension & a Twitcher Website
+- 🌱 I’m currently learning React
 - 😄 Fun fact: I know the composition of a CapriSun
 
 <br/>
