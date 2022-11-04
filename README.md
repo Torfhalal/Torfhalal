@@ -1,13 +1,14 @@
 ### Hi there, I'm Alexandre Tison aka alextison 👋
 
-[![Website](https://img.shields.io/badge/alextison.com-available-green)](https://alextison.com)
+[![Website](https://img.shields.io/badge/Portfolio-available-brightgreen)]([https://alextison.com](https://alextison.github.io/alextisonPortfolio/))
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alexandre-tison-29b859197/)
 
 ## I'm a Front-end Web Developer
 - ⚡ I just released my [Portfolio](https://github.com/Torfhalal/TorfaPortfolio) !
-- 🔭 I’m currently working on a Chrome Extension & a Twitcher Website
-- 🌱 I’m currently learning React
-- 😄 Fun fact: I know the composition of a CapriSun
+- 🔭 I’m currently working on making my GitHub better
+- 🌱 I’m currently learning TypeScript
+- 😄 Fun fact: I love to lift heavy weight
+- 📫 How to reach me: [alextison@icloud.com](mailto:alextison@icloud.com?subject=[GitHub]%20)
 
 <br/>
 
