@@ -14,7 +14,7 @@
 
 ### Languages and Tools:
 
-<img src="https://skillicons.dev/icons?i=ts,js,symfony,react,php,sass,mysql,py,html,jquery,git,github,jest,vscode,ps&perline=5" />
+<img src="https://skillicons.dev/icons?i=ts,js,symfony,react,php,sass,html,py,mysql,github,git,jest,vscode,ps&perline=5" />
 
 <!--
 **Torfhalal/Torfhalal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
